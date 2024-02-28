@@ -13,3 +13,6 @@ https://github.com/victorHZDias/HousePrices/blob/main/ProjetoHousePrices.ipynb
 <img src="https://github.com/victorHZDias/HousePrices/blob/main/imagens/primeirasMelhorasProjeto.png" img/>
 <img src="https://github.com/victorHZDias/HousePrices/blob/main/imagens/melhorModeloMomento.png" img/>
 
+Ranking Kaggle Projeto House Prices
+
+<img src="https://github.com/victorHZDias/HousePrices/blob/main/imagens/leaderboardKaggle.png" img/>
