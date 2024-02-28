@@ -17,23 +17,23 @@ Nesse modelo fiz: O tratamento de todas as colunas categórigas usando o OneHotE
 
 Modelos testados:
 
-  "LinearRegression"
-  "Ridge"
-  "Lasso"
-  "ElasticNet"
-  "DecisionTreeRegressor"
-  "RandomForestRegressor"
-  "GradientBoostingRegressor"
-  "SVR"
-  "KNeighborsRegressor"
-  "XGBRegressor"
-  "LGBMRegressor"
-  "CatBoostRegressor"
+  "LinearRegression",
+  "Ridge",
+  "Lasso",
+  "ElasticNet",
+  "DecisionTreeRegressor",
+  "RandomForestRegressor",
+  "GradientBoostingRegressor",
+  "SVR",
+  "KNeighborsRegressor",
+  "XGBRegressor",
+  "LGBMRegressor",
+  "CatBoostRegressor",
 
 Métricas utilizadas:
-  "mean_squared_error"
-  "mean_absolute_error"
-  "r2_score"
+  "mean_squared_error",
+  "mean_absolute_error",
+  "r2_score",
   
 <img src="https://github.com/victorHZDias/HousePrices/blob/main/imagens/primeirasMelhorasProjeto.png" img/>
 <img src="https://github.com/victorHZDias/HousePrices/blob/main/imagens/melhorModeloMomento.png" img/>
